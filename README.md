@@ -10,4 +10,7 @@ Path:
   localhost:api/token/ for getting JWT tocken
   localhost:team_creation/ to create the Team
   localhost:task/ to create Task
+  localhost:availability/ to check availability of member
+  localhost:update_task/task_id to update Task fields
+  localhost:mail/ to send mail to Team leaders
   
