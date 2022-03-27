@@ -6,6 +6,10 @@ resource required:
   pip install redis
   pip install celery
   pip install eventlet
+  
+ Super User:
+    Username- FreJun
+    Password: TaskTracker
 Path:
   localhost:api/token/ for getting JWT tocken
   localhost:team_creation/ to create the Team
