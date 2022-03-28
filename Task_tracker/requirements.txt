@@ -78,4 +78,3 @@ win10toast==0.9
 wrapt==1.14.0
 zipp==3.7.0
 zope.interface==5.4.0
-requirement =
